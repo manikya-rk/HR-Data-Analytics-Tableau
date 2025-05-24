@@ -94,5 +94,6 @@ In this project, HR data has been analyzed and visualized to help organizations:
 
 **Manikya Ravindra Kolekar**  
 
+![HR Data Analytics Dashboard](HR-Data-Analytics-Tableau/HR%20Data%20Analytics%20dashboard.png)
 
 
