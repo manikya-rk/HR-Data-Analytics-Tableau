@@ -93,7 +93,7 @@ In this project, HR data has been analyzed and visualized to help organizations:
 ## Author
 
 **Manikya Ravindra Kolekar**  
-Implementation Engineer | Data Analytics Enthusiast  
+
 
 
 
