@@ -94,8 +94,6 @@ In this project, HR data has been analyzed and visualized to help organizations:
 
 **Manikya Ravindra Kolekar**  
 Implementation Engineer | Data Analytics Enthusiast  
-📧 [your-email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
 
 
