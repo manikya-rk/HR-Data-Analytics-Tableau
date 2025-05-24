@@ -7,7 +7,7 @@ Welcome to the **HR Data Analytics Dashboard** built using Tableau. This project
 ## Project Overview
 
 In this project, HR data has been analyzed and visualized to help organizations:
-- Understand employee attrition and satisfaction levels
+- Understand employee attrition and satisfaction levels 
 - Track job role distributions and gender ratios
 - Monitor department-wise performance and engagement
 - Make data-driven HR decisions to reduce turnover and improve satisfaction
