@@ -96,5 +96,7 @@ In this project, HR data has been analyzed and visualized to help organizations:
 
 
 
+![My Screenshot](![Uploading HR Data Analytics dashboard.png…]()
+)
 
 
